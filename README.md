@@ -1,5 +1,15 @@
 # rick-morty-app
 
+Criação de uma aplicação baseada na API pública do rick-and-morty 
+usando :
+
+VUE 3 --> Composition API
+Spectre.css
+SweetAlert
+Cypress
+
+E as melhores práticas de desenvolvimento.
+
 ## Project setup
 ```
 npm install
