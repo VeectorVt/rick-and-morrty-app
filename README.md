@@ -10,6 +10,8 @@ Cypress
 
 E as melhores práticas de desenvolvimento.
 
+Para acessar a aplicação em produção : https://master--warm-pavlova-bd9a45.netlify.app
+
 ## Project setup
 ```
 npm install
